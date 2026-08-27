@@ -12,6 +12,7 @@ android/keystore
 
 # Misc
 .DS_Store
+.tools/
 .env
 .env.local
 .env.*.local
