@@ -1,0 +1,15 @@
+{
+  "name": "chandaka",
+  "displayName": "Chandaka",
+  "version": "1.0.0",
+  "description": "Professional financial management and credit card tracking app",
+  "author": "Chandaka",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "build-android": "cd android && ./gradlew assembleRelease"
+  }
+}
